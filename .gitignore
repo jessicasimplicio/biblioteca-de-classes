@@ -1,0 +1,12 @@
+# compiled output
+/node_modules
+/dist
+
+#Logs
+yarn-error.log
+
+# OS
+.DS_Store
+
+# IDE - VSCode
+.vscode/*
